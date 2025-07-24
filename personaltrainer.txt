@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fitness Tracker</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Fitness Tracker</h1>
+        <p>Your personal fitness assistant.</p>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#workout-routines">Workout Routines</a></li>
+            <li><a href="#exercise-categories">Exercise Categories</a></li>
+            <li><a href="#fitness-tips">Fitness Tips</a></li>
+        </ul>
+    </nav>
+    <main>
+        <section id="workout-routines">
+            <h2>Workout Routines</h2>
+            <ul>              
+                <li><a href="stretchingroutine.html">Stretching Routine</a></li>
+                <li><a href="weighttraining.html">Weight Training</a></li>
+                <li><a href="corestregth.html">Core Strengthening</a></li>
+                <li><a href="running.html">Running</a></li>                
+                <li><a href="dance.html">Dance Fitness</a></li>
+                <li><a href="pilatesyoga.html">Pilates and Yoga</a></li>
+
+            </ul>
+        </section>
+        
+        <section id="exercise-categories">
+            <h2>Exercise Categories</h2>
+            <ul>
+                <li><a href="strengthtraining.html">Strength Training</a></li>
+                <li><a href="cardio.html">Cardio</a></li>
+                <li><a href="flexibilty.html">Flexibility</a></li>
+                <li><a href="balance.html">Balance</a></li>
+                <li><a href="endurance.html">Endurance</a></li>
+            </ul>
+        </section>
+        <section id="fitness-tips">
+            <h2>Fitness Tips</h2>
+            <ul>
+                <li>-Stay hydrated throughout your workouts.</li>
+                <li>-Warm up before starting any exercise routine.</li>
+                <li>-Listen to your body and rest when needed.</li>
+                <li>-Focus on proper form to prevent injuries.</li>
+                <li>-Set realistic goals and track your progress.</li>
+            </ul>
+        </section>
+        <section>
+            
+            <a href="takecare.html"> Take Care </a>
+            </section>
+    </main>
+    <footer>
+        <p>&copy; Fitness Tracker</p>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>

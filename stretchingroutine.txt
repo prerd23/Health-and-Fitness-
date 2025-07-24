@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stretching Routine</title>
+    <link rel="stylesheet" href="styles1.css">
+</head>
+<body>
+    <header>
+        <h1>Stretching Routine</h1>
+        <p>Keep your muscles flexible, strong, and healthy with these stretches.</p>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#" id="important-stretching-link">Why Stretching is Important</a></li>
+            <li><a href="#" id="upper-body-stretches-link">Upper Body Stretches</a></li>
+            <li><a href="#" id="lower-body-stretches-link">Lower Body Stretches</a></li>
+            <li><a href="#" id="full-body-stretches-link">Full Body Stretches</a></li>
+        </ul>
+    </nav>
+    <main>
+        <section id="important-stretching-section" class="stretching-section">
+            <h2>Why Stretching is Important</h2>
+            <p>Stretching keeps the muscles flexible, strong, and healthy, and we need that flexibility to maintain a range of motion in the joints. Without it, the muscles shorten and become tight. Then, when you call on the muscles for activity, they are weak and unable to extend all the way. That puts you at risk for joint pain, strains, and muscle damage.</p>
+        </section>
+        <section id="important-stretching-section" class="stretching-section">
+            <h2>Upper Body Stretches</h2>
+            <p>Upper Trapezius (Neck) Stretch</p>
+            <p>Cross-Body Shoulder Stretch</p>
+            <p>Overhead Triceps and Shoulder Stretch</p>
+            <p>Reclined Spinal Twis</p>
+        </section>
+        <section id="important-stretching-section" class="stretching-section">
+            <h2>Lower Body Stretches</h2>
+            <p>Pretzel Stretch</p>
+            <p>Figure Four Stretch</p>
+            <p>Standing Quad Stretch</p>
+            <p>Downward Facing Dog</p>
+        </section>
+        <section id="important-stretching-section" class="stretching-section">
+            <h2>Full Body Stretches</h2>
+            <p>Ear-to-Shoulder Neck Stretch</p>
+            <p>Segmented Cat-Camel Back Stretch</p>
+            <p>Half-Kneeling Hip Flexor Stretch</p>
+            <p>3-Way Calf Stretch</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; Stretching Routine</p>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>

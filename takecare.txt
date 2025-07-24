@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project Conclusion</title>
+    <link rel="stylesheet" href="styletc.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Health & Fitness Tracker</h1>
+        </header>
+        
+        <main>
+            <section class="conclusion">
+                <h3> Take Care Of Yourself:)</h3>
+                <p>
+                    Our health should always be at the forefront of our priorities. It is the foundation upon which we build the edifice of our life's endeavors. Without good health, our ability to perform at our best and enjoy the fruits of our work diminishes significantly. Health is everything. It is not just the absence of disease, but a state of overall well-being that allows us to live life to the fullest and to give our best to the tasks at hand.
+                </p>
+                <p>
+                    May this project serve as a reminder that while we chase our dreams and aspirations, we must also nourish and cherish the vessel that carries us through this journey - our body. Let us pledge to put our health first and make choices that enhance our well-being. Remember, when health is lost, much is lost.
+                </p>
+            </section>
+        </main>
+        
+        <footer>
+            <div class="submission-details">
+                <p>Submitted by :  Prerna Dureja</p>
+                
+            </div>
+        </footer>
+    </div>
+</body>
+</html>

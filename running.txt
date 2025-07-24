@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Running</title>
+    <link rel="stylesheet" href="styles1.css">
+</head>
+<body>
+    <header>
+        <h1>Running</h1>
+        <p>Discover the benefits of running and get started with your running journey.</p>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#benefits">Benefits of Running</a></li>
+            <li><a href="#tips">Running Tips</a></li>
+            <li><a href="#gear">Essential Running Gear</a></li>
+        </ul>
+    </nav>
+    <main>
+        <section id="benefits">
+            <h2>Benefits of Running</h2>
+            <p>Running offers numerous benefits for both physical and mental health:</p>
+            <ul>
+                <li>Improves cardiovascular health</li>
+                <li>Strengthens muscles and bones</li>
+                <li>Boosts metabolism and aids in weight loss</li>
+                <li>Enhances mood and reduces stress</li>
+                <li>Increases energy levels and improves sleep quality</li>
+                <li>Boosts confidence and self-esteem</li>
+            </ul>
+            <p>Regular running can significantly improve overall well-being and contribute to a healthier lifestyle.</p>
+        </section>
+        <section id="types">
+        
+        </section>
+        <section id="tips">
+            <h2>Running Tips</h2>
+            <p>Follow these tips to maximize your running experience:</p>
+            <ul>
+                <li>Start with a proper warm-up and stretching routine</li>
+                <li>Gradually increase mileage and intensity to prevent injury</li>
+                <li>Stay hydrated and fuel your body with nutritious foods</li>
+                <li>Listen to your body and rest when needed</li>
+                <li>Invest in quality running shoes that provide support and cushioning</li>
+                <li>Set realistic goals and celebrate your progress</li>
+            </ul>
+        </section>
+        <section id="gear">
+            <h2>Essential Running Gear</h2>
+            <p>Equip yourself with the following essential gear for a comfortable and enjoyable running experience:</p>
+            <ul>
+                <li>Running shoes with proper arch support and cushioning</li>
+                <li>Moisture-wicking clothing to keep you dry and comfortable</li>
+                <li>Running watch or smartphone with a running app for tracking progress</li>
+                <li>Hydration pack or water bottle for staying hydrated on the go</li>
+                <li>Reflective gear for visibility during low-light conditions</li>
+                <li>Compression socks or sleeves for improved circulation and muscle support</li>
+            </ul>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; Running</p>
+    </footer>
+</body>
+</html>

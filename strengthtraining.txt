@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Strength Training</title>
+    <link rel="stylesheet" href="styles1.css">
+</head>
+<body>
+    <header>
+        <h1>Strength Training</h1>
+        <p>Build muscle and improve strength with these strength training exercises.</p>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#upper-body">Upper Body</a></li>
+            <li><a href="#lower-body">Lower Body</a></li>
+            <li><a href="#core">Core</a></li>
+            <li><a href="#full-body">Full Body</a></li>
+        </ul>
+    </nav>
+    <main>
+        <section id="upper-body">
+            <h2>Upper Body</h2>
+            <p>Strengthen your upper body with exercises targeting the chest, back, shoulders, and arms.</p>
+            <ul>
+                <li>Push-ups</li>
+                <li>Pull-ups</li>
+                <li>Dumbbell Bench Press</li>
+                <li>Shoulder Press</li>
+                <li>Bicep Curls</li>
+            </ul>
+        </section>
+        <section id="lower-body">
+            <h2>Lower Body</h2>
+            <p>Develop lower body strength and power with exercises for the legs, glutes, and calves.</p>
+            <ul>
+                <li>Squats</li>
+                <li>Lunges</li>
+                <li>Deadlifts</li>
+                <li>Calf Raises</li>
+                <li>Leg Press</li>
+            </ul>
+        </section>
+        <section id="core">
+            <h2>Core</h2>
+            <p>Stabilize and strengthen your core with exercises targeting the abdominals, obliques, and lower back.</p>
+            <ul>
+                <li>Planks</li>
+                <li>Crunches</li>
+                <li>Russian Twists</li>
+                <li>Leg Raises</li>
+                <li>Supermans</li>
+            </ul>
+        </section>
+        <section id="full-body">
+            <h2>Full Body</h2>
+            <p>Engage multiple muscle groups simultaneously with full-body strength training exercises.</p>
+            <ul>
+                <li>Deadlifts</li>
+                <li>Clean and Press</li>
+                <li>Burpees</li>
+                <li>Kettlebell Swings</li>
+                <li>Mountain Climbers</li>
+            </ul>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; Strength Training</p>
+    </footer>
+</body>
+</html>

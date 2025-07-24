@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weight Training</title>
+    <link rel="stylesheet" href="styles1.css">
+</head>
+<body>
+    <header>
+        <h1>Weight Training</h1>
+        <p>Build strength and muscle with these weight training exercises.</p>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#beginner">Beginner</a></li>
+            <li><a href="#intermediate">Intermediate</a></li>
+            <li><a href="#advanced">Advanced</a></li>
+        </ul>
+    </nav>
+    <main>
+        <section id="beginner">
+            <h2>Beginner Weight Training</h2>
+            <p>Start your weight training journey with these basic exercises.</p>
+            <ul>
+                <li>Squats</li>
+                <li>Lunges</li>
+                <li>Push-ups</li>
+                <li>Dumbbell Rows</li>
+                <li>Bicep Curls</li>
+            </ul>
+        </section>
+        <section id="intermediate">
+            <h2>Intermediate Weight Training</h2>
+            <p>Take your strength to the next level with these intermediate exercises.</p>
+            <ul>
+                <li>Deadlifts</li>
+                <li>Bench Press</li>
+                <li>Shoulder Press</li>
+                <li>Pull-ups</li>
+                <li>Tricep Dips</li>
+            </ul>
+        </section>
+        <section id="advanced">
+            <h2>Advanced Weight Training</h2>
+            <p>Challenge yourself with these advanced weight training exercises.</p>
+            <ul>
+                <li>Olympic Lifts</li>
+                <li>Barbell Rows</li>
+                <li>Front Squats</li>
+                <li>Handstand Push-ups</li>
+                <li>Pistol Squats</li>
+            </ul>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; Weight Training</p>
+    </footer>
+</body>
+</html>

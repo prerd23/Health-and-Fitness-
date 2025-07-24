@@ -1,0 +1,50 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #fdfaf6; /* Very light pastel beige */
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #efe2d9; /* Light pastel beige-pink */
+    color: #5c4740; /* Soft brown for readability */
+    padding: 20px;
+    text-align: center;
+  }
+  
+  h1, h2 {
+    color: #5c4740; /* Coordinated soft brown for titles */
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  .recipe {
+    background-color: #fffef9; /* Off-white with a hint of beige for a clean look */
+    padding: 20px;
+    border-radius: 5px;
+  }
+  
+  .recipe h2 {
+    margin-bottom: 10px;
+  }
+  
+  .recipe ul, .recipe ol {
+    background-color: #fff; /* Pure white to keep the content areas bright and clear */
+    padding: 15px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05); /* Subtler shadow for a soft appearance */
+  }
+  
+  .recipe li {
+    margin-bottom: 5px;
+  }
+  
+  footer {
+    background-color: #dfd3c3; /* Light pastel brown */
+    color: #fff; /* White text to maintain contrast and readability */
+    padding: 10px;
+    text-align: center;
+  }
+  

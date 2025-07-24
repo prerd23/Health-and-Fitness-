@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fitness Tracker</title>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Roboto:wght@400;500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styleft.css">
+</head>
+<section class="imagee"> 
+<img src="./hft.png" alt="Fitness Tracker Logo" class="logo" width="900px">
+</section>
+    <div class="container">
+        <header>
+           
+            
+        <h1>Health & Fitness Tracker</h1>
+        </header>
+    </div>
+        
+        <section id="weekly-tracker" class="card">
+            <h2>Weekly Fitness Tracker</h2>
+        </section>
+
+        <section id="daily-journal" class="card">
+            <h2>Daily Journal</h2>
+            <form id="journal-form">
+                <textarea id="journal-entry" placeholder="How was your day..."></textarea>
+               
+            </form>
+        </section>
+        
+        <section id="goals" class="card">
+            <h2>Goals</h2>
+            <div class="goals-subcategory">
+                <label for="steps-goal">Steps:</label>
+                <input type="number" id="steps-goal" placeholder="your goal...">
+                <label for="calories-burt">Calories Burnt:</label>
+                <input type="number" id="calories-burned" placeholder="target...">
+                <label for="protein-intake">Protein Intake (grams):</label>
+                <input type="number" id="protein-intake" placeholder="desired intake...">
+            </div>
+        </section>
+        <section id="Meals" class=""card">
+            <h3>Meals</h3>
+            <a href="meal.html"> Your Meal Tracker </a>
+
+       
+        </body>
+</html>

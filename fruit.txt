@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Fresh Fruit Salad Recipe</title>
+  <link rel="stylesheet" href="stylerecipe.css">
+</head>
+<body>
+  <header>
+    <h1>Fresh Fruit Salad</h1>
+  </header>
+
+  <main>
+    <section class="recipe">
+      <h2>Ingredients</h2>
+        <h3>Sauce:</h3>
+      
+        <li>⅔ cup fresh orange juice</li>
+        <li>⅓ cup fresh lemon juice</li>
+        <li>⅓ cup packed brown sugar</li>
+        <li>½ teaspoon grated orange zest</li>
+        <li>½ teaspoon grated lemon zest</li>
+        <li>½ cup brown sugar</li>
+        <li>1 teaspoon vanilla extract</li>
+
+        <h3>Salad</h3>
+        <li>2 cups cubed fresh pineapple</li>
+        <li>2 cups strawberries, hulled and sliced</li>
+        <li> kiwi fruit, peeled and sliced</li>
+        <li>3 bananas, sliced</li>
+        <li>2 oranges, peeled and sectioned</li>
+         <li>1 cup seedless grapes</li>
+        <li>2 cups blueberries</li>
+       
+      </ul>
+
+      <h2>Instructions</h2>
+      <ol>
+        <h3>For the Sauce:</h3>
+        <li>Bring orange juice, lemon juice, brown sugar, orange zest, and lemon zest to a boil in a saucepan over medium-high heat. Reduce heat to medium-low and simmer until slightly thickened, about 5 minutes. Remove from heat and stir in vanilla extract. Set aside to cool.
+
+        </li>
+        <h3>For the Salad:</h3>
+        <li>Layer fruit in a large, clear glass bowl in this order: pineapple, strawberries, kiwi fruit, bananas, oranges, grapes, and blueberries. Pour cooled sauce over fruit; cover and refrigerate for 3 to 4 hours before serving.</li>
+        
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2024 Delicious Recipes</p>
+  </footer>
+</body>
+</html>

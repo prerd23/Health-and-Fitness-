@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cardio</title>
+    <link rel="stylesheet" href="styles1.css">
+</head>
+<body>
+    <header>
+        <h1>Cardio</h1>
+        <p>Improve cardiovascular health and endurance with these cardio exercises.</p>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#running">Running</a></li>
+            <li><a href="#cycling">Cycling</a></li>
+            <li><a href="#jumping-rope">Jumping Rope</a></li>
+            <li><a href="#swimming">Swimming</a></li>
+        </ul>
+    </nav>
+    <main>
+        <section id="running">
+            <h2>Running</h2>
+            <p>Boost your heart rate and burn calories with the following running workouts:</p>
+            <ul>
+                <li>Interval Training</li>
+                <li>Long Distance Running</li>
+                <li>Hill Repeats</li>
+                <li>Sprints</li>
+                <li>Tempo Runs</li>
+            </ul>
+        </section>
+        <section id="cycling">
+            <h2>Cycling</h2>
+            <p>Get your heart pumping and legs moving with various cycling workouts:</p>
+            <ul>
+                <li>Indoor Cycling (Spinning)</li>
+                <li>Road Cycling</li>
+                <li>Mountain Biking</li>
+                <li>HIIT Cycling</li>
+                <li>Cycling Classes</li>
+            </ul>
+        </section>
+        <section id="jumping-rope">
+            <h2>Jumping Rope</h2>
+            <p>Experience a high-intensity cardio workout with the following jumping rope exercises:</p>
+            <ul>
+                <li>Basic Jump</li>
+                <li>Double Unders</li>
+                <li>Single Leg Hops</li>
+                <li>Boxer Step</li>
+                <li>Criss-Cross</li>
+            </ul>
+        </section>
+        <section id="swimming">
+            <h2>Swimming</h2>
+            <p>Improve cardiovascular health and full-body strength with various swimming workouts:</p>
+            <ul>
+                <li>Freestyle (Front Crawl)</li>
+                <li>Backstroke</li>
+                <li>Breaststroke</li>
+                <li>Butterfly</li>
+                <li>Interval Training</li>
+            </ul>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; Cardio</p>
+    </footer>
+</body>
+</html>

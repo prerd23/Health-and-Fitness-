@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Endurance</title>
+    <link rel="stylesheet" href="styles1.css">
+</head>
+<body>
+    <header>
+        <h1>Endurance</h1>
+        <p>Build stamina and improve cardiovascular endurance with these exercises.</p>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#long-distance-running">Long Distance Running</a></li>
+            <li><a href="#cycling">Cycling</a></li>
+            <li><a href="#swimming">Swimming</a></li>
+            <li><a href="#rowing">Rowing</a></li>
+        </ul>
+    </nav>
+    <main>
+        <section id="long-distance-running">
+            <h2>Long Distance Running</h2>
+            <p>Build endurance and mental toughness with long distance running:</p>
+            <ul>
+                <li>Training for Half Marathons</li>
+                <li>Training for Marathons</li>
+                <li>Ultra-Running</li>
+                <li>Endurance Trail Running</li>
+                <li>Running Challenges (e.g., 100-mile races)</li>
+            </ul>
+        </section>
+        <section id="cycling">
+            <h2>Cycling</h2>
+            <p>Improve cardiovascular endurance and leg strength through cycling:</p>
+            <ul>
+                <li>Endurance Cycling Rides</li>
+                <li>Cycling Tours</li>
+                <li>Gran Fondos</li>
+                <li>Multi-Day Bikepacking</li>
+                <li>Cycling Challenges (e.g., century rides)</li>
+            </ul>
+        </section>
+        <section id="swimming">
+            <h2>Swimming</h2>
+            <p>Enhance cardiovascular endurance and full-body strength with swimming:</p>
+            <ul>                   
+                    <li>Long Distance Swims</li>
+                    <li>Open Water Swimming</li>
+                    <li>Triathlon Training</li>
+                    <li>Masters Swimming Programs</li>
+                    <li>Swim Challenges (e.g., swim-a-thons)</li>
+                </l>
+            </section>
+            <section id="rowing">
+                <h2>Rowing</h2>
+                <p>Build endurance and strength with rowing exercises:</p>
+                <ul>
+                    <li>Indoor Rowing (Rowing Machine)</li>
+                    <li>Outdoor Rowing (On water)</li>
+                    <li>CrossFit Rowing Workouts</li>
+                    <li>Rowing Challenges (e.g., rowing marathons)</li>
+                    <li>Rowing Competitions (e.g., regattas)</li>
+                </ul>
+            </section>
+        </main>
+        <footer>
+            <p>&copy; Endurance</p>
+        </footer>
+    </body>
+    </html>
+    

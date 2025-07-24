@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flexibility</title>
+    <link rel="stylesheet" href="styles1.css">
+</head>
+<body>
+    <header>
+        <h1>Flexibility</h1>
+        <p>Enhance flexibility and prevent injury with these flexibility exercises.</p>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#stretching-routines">Stretching Routines</a></li>
+            <li><a href="#yoga-poses">Yoga Poses</a></li>
+            <li><a href="#pilates-stretches">Pilates Stretches</a></li>
+            <li><a href="#dynamic-stretches">Dynamic Stretches</a></li>
+        </ul>
+    </nav>
+    <main>
+        <section id="stretching-routines">
+            <h2>Stretching Routines</h2>
+            <p>Improve
+                <p>Improve flexibility and range of motion with these stretching routines:</p>
+                <ul>
+                    <li>Full Body Stretch</li>
+                    <li>Hamstring Stretch</li>
+                    <li>Quad Stretch</li>
+                    <li>Shoulder Stretch</li>
+                    <li>Triceps Stretch</li>
+                </ul>
+            </section>
+            <section id="yoga-poses">
+                <h2>Yoga Poses</h2>
+                <p>Find balance, strength, and flexibility with these yoga poses:</p>
+                <ul>
+                    <li>Downward-Facing Dog (Adho Mukha Svanasana)</li>
+                    <li>Warrior II (Virabhadrasana II)</li>
+                    <li>Child's Pose (Balasana)</li>
+                    <li>Cobra Pose (Bhujangasana)</li>
+                    <li>Seated Forward Bend (Paschimottanasana)</li>
+                </ul>
+            </section>
+            <section id="pilates-stretches">
+                <h2>Pilates Stretches</h2>
+                <p>Improve flexibility and strengthen muscles with these Pilates stretches:</p>
+                <ul>
+                    <li>Spine Stretch Forward</li>
+                    <li>Mermaid Stretch</li>
+                    <li>Swan Dive</li>
+                    <li>Leg Pull Front</li>
+                    <li>Roll-Up</li>
+                </ul>
+            </section>
+            <section id="dynamic-stretches">
+                <h2>Dynamic Stretches</h2>
+                <p>Prepare your body for activity and improve flexibility with dynamic stretches:</p>
+                <ul>
+                    <li>Arm Circles</li>
+                    <li>Leg Swings</li>
+                    <li>Trunk Twists</li>
+                    <li>Walking Lunges</li>
+                    <li>High Knees</li>
+                </ul>
+            </section>
+        </main>
+        <footer>
+            <p>&copy; Flexibility</p>
+        </footer>
+    </body>
+    </html>
+    

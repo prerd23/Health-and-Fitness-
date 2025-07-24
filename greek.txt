@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Greek Yogurt with Honey and Walnuts Recipe</title>
+  <link rel="stylesheet" href="stylerecipe.css">
+</head>
+<body>
+  <header>
+    <h1>Greek Yogurt with Honey and Walnuts</h1>
+  </header>
+
+  <main>
+    <section class="recipe">
+      <h2>Ingredients</h2>
+      <ul>
+        <li>1 cup Greek yogurt</li>
+        <li>2 tablespoons honey, preferably organic</li>
+        <li>1/4 cup walnuts, roughly chopped</li>
+        <li>A pinch of ground cinnamon (optional)</li>
+        <li>Fresh fruit for garnish (optional)</li>
+      </ul>
+
+      <h2>Instructions</h2>
+      <ol>
+        <li>Begin by placing the Greek yogurt in a serving bowl. Use a spatula to smooth the top.</li>
+        <li>Drizzle the honey evenly over the surface of the yogurt. The amount of honey can be adjusted to taste.</li>
+        <li>Add the chopped walnuts, distributing them evenly across the yogurt.</li>
+        <li>If desired, sprinkle a pinch of ground cinnamon over the top for added flavor.</li>
+        <li>As an optional step, garnish with fresh fruit such as berries, sliced bananas, or apple slices.</li>
+        <li>For best results, serve immediately or chill in the refrigerator for 30 minutes to allow the flavors to meld.</li>
+        <li>Enjoy this healthy and delicious treat as a breakfast, dessert, or snack!</li>
+      </ol>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2024 Delicious Recipes</p>
+  </footer>
+</body>
+</html>

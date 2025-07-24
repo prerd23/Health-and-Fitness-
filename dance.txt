@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dance</title>
+    <link rel="stylesheet" href="styles1.css">
+</head>
+<body>
+    <header>
+        <h1>Dance</h1>
+        <p>Explore different dance styles and routines.</p>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#hip-hop">Hip Hop</a></li>
+            <li><a href="#ballet">Ballet</a></li>
+            <li><a href="#salsa">Salsa</a></li>
+            <li><a href="#jazz">Jazz</a></li>
+            <li><a href="#tap">Tap</a></li>
+            <li><a href="#contemporary">Contemporary</a></li>
+        </ul>
+    </nav>
+    <main>
+        <section id="hip-hop">
+            <h2>Hip Hop</h2>
+            <p>Bust a move with these energetic hip hop dance routines:</p>
+            <ul>
+                <li>Freestyle</li>
+                <li>Pop and Lock</li>
+                <li>Breaking</li>
+                <li>House</li>
+            </ul>
+        </section>
+        <section id="ballet">
+            <h2>Ballet</h2>
+            <p>Experience grace and elegance with these ballet dance routines:</p>
+            <ul>
+                <li>Plies</li>
+                <li>Tendus</li>
+                <li>Pirouettes</li>
+                <li>Grand Jeté</li>
+            </ul>
+        </section>
+        <section id="salsa">
+            <h2>Salsa</h2>
+            <p>Heat up the dance floor with these spicy salsa dance routines:</p>
+            <ul>
+                <li>Basic Steps</li>
+                <li>Cross Body Lead</li>
+                <li>Turn Patterns</li>
+                <li>Shines</li>
+            </ul>
+        </section>
+        <section id="jazz">
+            <h2>Jazz</h2>
+            <p>Get jazzy with these dynamic jazz dance routines:</p>
+            <ul>
+                <li>Kicks and Leaps</li>
+                <li>Isolations</li>
+                <li>Swing</li>
+                <li>Fosse</li>
+            </ul>
+        </section>
+        <section id="tap">
+            <h2>Tap</h2>
+            <p>Make music with your feet with these tap dance routines:</p>
+            <ul>
+                <li>Shuffles</li>
+                <li>Time Steps</li>
+                <li>Buffalo</li>
+                <li>Wings</li>
+            </ul>
+        </section>
+        <section id="contemporary">
+            <h2>Contemporary</h2>
+            <p>Explore emotion and expression with these contemporary dance routines:</p>
+            <ul>
+                <li>Release Technique</li>
+                <li>Improvisation</li>
+                <li>Contact Improvisation</li>
+                <li>Graham Technique</li>
+            </ul>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; Dance</p>
+    </footer>
+</body>
+</html>

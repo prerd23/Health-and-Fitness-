@@ -1,0 +1,38 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #F0F8FF; /* Very light ice blue for a clean, airy background */
+    text-align: center;
+}
+
+.container {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+    background-color: #FFFFFF; /* Pure white for the main content area to maintain clarity */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Adds depth and focus */
+}
+
+header h1 {
+    margin-bottom: 40px;
+    color: #A0D2EB; /* Soft ice blue for header texts, welcoming and refreshing */
+}
+
+.conclusion {
+    font-size: 18px;
+    line-height: 1.6;
+    margin-bottom: 40px;
+    color: #5C7A89; /* Slightly darker ice blue for excellent readability */
+}
+
+footer {
+    border-top: 1px solid #6692b2; /* Subtle ice blue, lighter than text for a gentle separator */
+    padding-top: 20px;
+    color: #5C7A89; /* Consistent with the conclusion text for uniformity */
+}
+
+.submission-details p {
+    margin: 5px 0;
+    color: #5C7A89; /* Maintains text consistency throughout for a unified design */
+}

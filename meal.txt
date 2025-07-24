@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Meal Diary</title>
+  <link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="stylemeal.css">
+</head>
+<body>
+  <header class="header">
+    <h1>MEALS</h1>
+    <div class="quote-section">
+      <p>"Your diet is a bank account. Good food choices are good investments."</p>
+    </div>
+  </header>
+
+  <div class="meal-diary">
+    <div class="date-tag-section">
+      <input type="date" id="date-picker" class="date-picker">
+      
+    </div>
+
+    <div class="meal-section">
+        <div class="meal" id="breakfast">
+          <h2>Breakfast</h2>
+          <div class="nutrition">
+            Some healthy options: <br>
+            1. Overnight oats <br>
+            2. Loaded avocado toast <br>
+            3. Broccoli and cheese egg bake <br>
+            4. Yogurt and fruit parfaits <br>
+
+          </div>
+        </div>
+        <div class="meal" id="lunch">
+          <h2>Lunch</h2>
+          <div class="nutrition">
+            Some healthy options:
+            1. Sweet potato black bean meal prep bowls
+            2. Healthy tuna salad with cranberries
+            3. Italian pasta salad
+            4. Slow cooker lentil soup
+
+
+          </div>
+        </div>
+        <div class="meal" id="dinner">
+          <h2>Dinner</h2>
+          <div class="nutrition">
+            Some healthy options:
+            1. Taco salad
+            2. Easy black bean and rice skillet
+            3. Easy chickpea curry
+            4. Caramelized onion and spinach grilled cheese
+
+          </div>
+        </div>
+      </div>
+
+    <div class="meal" id="snacks-desserts">
+      <h2>Snacks & Desserts Log</h2>
+      <h3>Some Healthy Dessert Options</h3>
+      <ul class="healthy-desserts">
+        <li>Greek Yogurt with Honey and Walnuts 
+        <a href="greek.html">RECIPE </a> </li>
+        <li>Fresh Fruit Salad
+            <a href="fruit.html">RECIPE </a>
+        </li>
+        <li>Baked Apple with Cinnamon
+            <a href="baked.html">RECIPE </a>
+        </li>
+        <li>Dark Chocolate with Almonds
+            <a href="dark.html">RECIPE </a>
+        </li>
+      </ul>
+    </div>
+
+    <div class="meal" id="water-intake">
+      <h2>Water Intake</h2>
+      The National Academy of Medicine suggests an adequate intake of daily fluids of about 13 cups and 9 cups for healthy men and women, respectively, with 1 cup equaling 8 ounces.
+    </div>
+  </div>
+  <div class="pt">
+    <h3> Your Fitness Help </h3>
+    <a href="hello.html"> Your Personal Trainer </a>
+    </div>
+
+</body>
+</html>

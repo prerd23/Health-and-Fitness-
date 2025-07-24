@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Balance</title>
+    <link rel="stylesheet" href="styles1.css">
+</head>
+<body>
+    <header>
+        <h1>Balance</h1>
+        <p>Enhance stability and proprioception with these balance exercises.</p>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#single-leg-stands">Single Leg Stands</a></li>
+            <li><a href="#balance-boards">Balance Boards</a></li>
+            <li><a href="#bosu-ball-exercises">BOSU Ball Exercises</a></li>
+            <li><a href="#yoga-balancing-poses">Yoga Balancing Poses</a></li>
+        </ul>
+    </nav>
+    <main>
+        <section id="single-leg-stands">
+            <h2>Single Leg Stands</h2>
+            <p>Improve balance and stability by practicing single leg stands:</p>
+            <ul>
+                <li>Tree Pose (Vrksasana)</li>
+                <li>Warrior III (Virabhadrasana III)</li>
+                <li>Single Leg Deadlift</li>
+                <li>Single Leg Balance Reach</li>
+                <li>Single Leg Squats</li>
+            </ul>
+        </section>
+        <section id="balance-boards">
+            <h2>Balance Boards</h2>
+            <p>Challenge your balance and coordination with exercises using balance boards:</p>
+            <ul>
+                <li>Forward and Backward Tilts</li>
+                <li>Side-to-Side Tilts</li>
+                <li>Single Leg Balance</li>
+                <li>Squats on Balance Board</li>
+                <li>Push-ups on Balance Board</li>
+            </ul>
+        </section>
+        <section id="bosu-ball-exercises">
+            <h2>BOSU Ball Exercises</h2>
+            <p>Strengthen stabilizing muscles and improve balance using a BOSU ball:</p>
+            <ul>
+                <li>BOSU Ball Squats</li>
+                <li>BOSU Ball Lunges</li>
+                <li>BOSU Ball Planks</li>
+                <li>BOSU Ball Single Leg Balance</li>
+                <li>BOSU Ball Push-ups</li>
+            </ul>
+        </section>
+        <section id="yoga-balancing-poses">
+            <h2>Yoga Balancing Poses</h2>
+            <p>Enhance balance, focus, and concentration with yoga balancing poses:</p>
+            <ul>
+                <li>Eagle Pose (Garudasana)</li>
+                <li>Dancer's Pose (Natarajasana)</li>
+                <li>Half Moon Pose (Ardha Chandrasana)</li>
+                <li>Warrior Pose III (Virabhadrasana III)</li>
+                <li>Extended Hand-to-Big-Toe Pose (Utthita Hasta Padangustasana)</li>
+            </ul>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; Balance</p>
+    </footer>
+</body>
+</html>

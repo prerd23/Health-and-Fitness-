@@ -1,0 +1,94 @@
+body {
+    font-family: 'Lato', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #fdfcf9; /* Softest pastel beige, nearly white */
+    text-align: center; /* Centers text in the body by default */
+  }
+  
+  .header a {
+    background-color: #e0d8cf; /* Warm pastel grey */
+    color: #826e61; /* Soft taupe for readable contrast */
+    padding: 10px;
+    text-align: center; /* Center text inside the link */
+  }
+  
+  .header h1 {
+    margin: 0;
+    text-align: center; /* Ensure heading is centered */
+  }
+  
+  nav {
+    background-color: #f3eae0; /* Light pastel cream */
+    padding: 10px;
+  }
+  
+  nav ul {
+    text-align: center;
+    margin: 20px;
+    font-size: 1.2em;
+    font-weight: 300;
+    color: #9a8c82; /* Warm pastel brown */
+  }
+  
+  nav li {
+    display: inline-block;
+    margin: 10px;
+  }
+  
+  nav a {
+    color: #6d5e54; /* Darker pastel brown for good legibility */
+    text-decoration: none;
+  }
+  
+  main {
+    max-width: 800px;
+    margin: auto;
+    background-color: #fffefb; /* Very light pastel ivory */
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.05); /* Lighter shadow for a soft effect */
+  }
+  
+  section {
+    margin-bottom: 20px;
+    background-color: #fef9f4; /* Very soft pastel peach */
+    padding: 20px;
+    border-radius: 5px;
+  }
+  
+  section h2 {
+    margin-bottom: 10px;
+    color: #826e61; /* Soft taupe, matching the link color */
+  }
+  
+  section ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  section li {
+    margin: 10px;
+    padding: 15px;
+    background-color: #fff; /* Pure white to maintain visual freshness */
+    border: 1px solid #eee;
+  }
+  
+  .travel-tips li {
+    font-style: italic;
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+  }
+  
+  footer {
+    background-color: #c4b2a9; /* Soft pastel mud */
+    color: #ffffff;
+    padding: 10px;
+    text-align: center;
+  }
+  /* Add any additional custom styles below */
+  

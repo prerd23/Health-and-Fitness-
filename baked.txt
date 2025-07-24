@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Greek Yogurt with Honey and Walnuts Recipe</title>
+  <link rel="stylesheet" href="stylerecipe.css">
+</head>
+<body>
+  <header>
+    <h1>Baked Apple with Cinnamon</h1>
+  </header>
+
+  <main>
+    <section class="recipe">
+      <h2>Ingredients</h2>
+      
+        <li>3 Golden Delicious apples - peeled, cored, and thinly sliced</li>
+        <li>⅔ cup water</li>
+        <li>2 teaspoons cold butter, cut into small pieces</li>
+        <li>1 ½ teaspoons all-purpose flour</li>
+        <li>1 teaspoon cornstarch</li>
+        <li>½ cup brown sugar</li>
+        <li>¼ teaspoon ground cinnamon</li>
+        <li>1 pinch salt</li>
+      </ul>
+
+      <h2>Instructions</h2>
+      <ol>
+        <li>Preheat the oven to 350 degrees F (175 degrees C).</li>
+        <li>Layer apple slices on the bottom of an 8-inch glass baking dish.</li>
+        <li>Mix water, butter, flour, and cornstarch together in a bowl until no lumps remain. Stir in brown sugar, cinnamon, and salt until smooth. Pour apples into the baking dish.</li>
+        <li>Bake in the preheated oven, stirring every 10 to 15 minutes, until soft and juicy, about 45 minutes. </li>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2024 Delicious Recipes</p>
+  </footer>
+</body>
+</html>

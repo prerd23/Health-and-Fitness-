@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pilates and Yoga</title>
+    <link rel="stylesheet" href="styles1.css">
+</head>
+<body>
+    <header>
+        <h1>Pilates and Yoga</h1>
+        <p>Strengthen your core and find peace, balance, and flexibility.</p>
+    </header>
+    <div class="container">
+        <section id="pilates">
+            <h2>Pilates</h2>
+            <p>Pilates is a system of exercises that focuses on strengthening the core muscles, improving flexibility, and enhancing overall body awareness.</p>
+            <h3>Mat Pilates</h3>
+            <p>Mat Pilates involves performing exercises on a mat, using body weight and minimal equipment to challenge core strength and stability.</p>
+            <ul>
+                <li>Hundred</li>
+                <li>Roll-Up</li>
+                <li>Single Leg Stretch</li>
+                <li>Swan Dive</li>
+            </ul>
+            <h3>Reformer Pilates</h3>
+            <p>Reformer Pilates utilizes a specialized piece of equipment called a Reformer, which provides resistance to enhance muscle strength, endurance, and flexibility.</p>
+            <ul>
+                <li>Footwork</li>
+                <li>Long Stretch Series</li>
+                <li>Short Box Series</li>
+                <li>Elephant</li>
+            </ul>
+            <h3>Pilates with Stability Ball</h3>
+            <p>Pilates exercises can also be performed using a stability ball, which adds an element of balance and instability to challenge the core muscles further.</p>
+            <ul>
+                <li>Ball Pass</li>
+                <li>Pike</li>
+                <li>Leg Circles</li>
+                <li>Plank with Feet on Ball</li>
+            </ul>
+        </section>
+        <section id="yoga">
+            <h2>Yoga</h2>
+            <p>Yoga is a holistic practice that integrates physical postures, breathing techniques, and meditation to promote overall well-being, flexibility, and inner peace.</p>
+            <h3>Hatha Yoga</h3>
+            <p>Hatha Yoga focuses on balancing opposing forces within the body through physical postures (asanas) and breath control (pranayama).</p>
+            <ul>
+                <li>Mountain Pose (Tadasana)</li>
+                <li>Downward-Facing Dog (Adho Mukha Svanasana)</li>
+                <li>Warrior Poses (Virabhadrasana)</li>
+                <li>Tree Pose (Vrksasana)</li>
+            </ul>
+            <h3>Vinyasa Yoga</h3>
+            <p>Vinyasa Yoga emphasizes the synchronization of breath with movement, flowing through sequences of poses to build strength, flexibility, and mindfulness.</p>
+            <ul>
+                <li>Sun Salutations (Surya Namaskar)</li>
+                <li>Chair Pose (Utkatasana)</li>
+                <li>Plank Pose (Phalakasana)</li>
+                <li>Cobra Pose (Bhujangasana)</li>
+            </ul>
+            <h3>Ashtanga Yoga</h3>
+            <p>Ashtanga Yoga is a dynamic and physically demanding practice that follows a specific sequence of postures to build internal heat, strength, and flexibility.</p>
+            <ul>
+                <li>Primary Series (Yoga Chikitsa)</li>
+                <li>Standing Poses</li>
+                <li>Seated Poses</li>
+                <li>Finishing Poses</li>
+            </ul>
+        </section>
+    </div>
+    <footer>
+        <p>&copy; Pilates and Yoga</p>
+    </footer>
+</body>
+</html>
+

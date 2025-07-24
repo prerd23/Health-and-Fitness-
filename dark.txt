@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dark Chocolate with Almonds Recipe</title>
+  <link rel="stylesheet" href="stylerecipe.css">
+</head>
+<body>
+  <header>
+    <h1>Dark Chocolate with Almonds</h1>
+  </header>
+
+  <main>
+    <section class="recipe">
+      <h2>Ingredients</h2>
+      
+        <li>½ cup almonds, crushed into chunks</li>
+        <li>7 ounces dark chocolate chips (50% cacao)</li>
+        
+      </ul>
+
+      <h2>Instructions</h2>
+      <ol>
+        <li>Spread almonds in a large skillet; toast over medium heat until starting to brown, 3 to 5 minutes. Pour almonds into a bowl.</li>
+        <li>Melt chocolate in top of a double boiler over simmering water, stirring frequently and scraping down the sides to avoid scorching, about 5 minutes. Remove from heat; pour in almonds and stir until evenly coated.</li>
+        <li>Drop spoonfuls of chocolate-almond mixture onto a plate lined with waxed paper.</li>
+        <li>Chill until set, about 10 minutes.</li>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2024 Delicious Recipes</p>
+  </footer>
+</body>
+</html>
